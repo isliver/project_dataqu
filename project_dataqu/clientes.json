@@ -1,0 +1,52 @@
+[
+    {
+        "pk": 1,
+        "fields":{ "rut": "18620855-1", "name": "Angel Serrano"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 2,
+        "fields":{ "rut": "11345435-2", "name": "Roser Abreu"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 3,
+        "fields":{ "rut": "14256777-k", "name": "Rosa Campos"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 4,
+        "fields":{ "rut": "12675688-0", "name": "Celestino Fuentes"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 5,
+        "fields":{ "rut": "14234334-4", "name": "Rebeca Rojas"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 6,
+        "fields":{ "rut": "10152323-8", "name": "Andrea Palomo"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 7,
+        "fields":{ "rut": "15587715-4", "name": "Maria Inmaculada Jiménez"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 8,
+        "fields":{ "rut": "15034590-7", "name": "Marcela Navarro"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 9,
+        "fields":{ "rut": "11804345-3", "name": "Francisco Manuel Gago"},
+        "model": "data_test.Clientes"
+    },
+    { 
+        "pk": 10,
+        "fields":{"rut": "13804238-0", "name": "Patricio Duran"},
+        "model": "data_test.Clientes"
+    }
+]
